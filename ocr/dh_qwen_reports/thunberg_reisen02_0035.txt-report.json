@@ -1,0 +1,11 @@
+{
+    "gt": "ocr_ground_truth/thunberg_reisen02_0035.txt",
+    "ocr": "Qwen3b_results_linebreak/thunberg_reisen02_0035.txt",
+
+    "cer": 0.04702970297029703,
+    "wer": 0.13333333333333333,
+
+
+    "n_characters": 1212,
+    "n_words": 195
+}
